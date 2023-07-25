@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+    height: 100vh;
+    background-image: url('./hotel-room-g8f31356d8_1280.jpg');
+    background-position: center;
+    background-size: cover;
+}
+footer{
+    background-color: dimgrey;
+}
